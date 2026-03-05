@@ -12,6 +12,6 @@ Currently the generator runs in mock mode for demonstration purposes.
 
 python quizforge.py
 ## Live Demo
-https://quizforge-ai-aw2eyjstakcqyuprmi7pxg.streamlit.app/
+https://quizforge-ai-4l95fqupja2aufwvutzxzm.streamlit.app
 ## Web App Workflow
 Input → mock generation → display → download
